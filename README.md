@@ -12,18 +12,16 @@ The step by step procedure has apparently provided the student with a more thoro
 
 Using Python and its libraries, we gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it.
 
-We sampled the "We_Rate_Dog" twitter account, to produce insights in the following dimensions
+We sampled the "We_Rate_Dog" twitter account, to produce insights in the following dimensions:
 
-The dog types that got the highest and lowest rating
-
-The year with the most and least Dog review
-
-The devices that was mostly used for the rating
+*(a)The dog types that got the highest and lowest rating
+*(b)The year with the most and least Dog review
+*(c)The devices that was mostly used for the rating
 
 For the analysis, the following files or dataset were provided:
 
-Twitter_Archive
-Twitter_Json
-Image_predictions
+*(a)Twitter_Archive
+*(b)Twitter_Json
+*(c)Image_predictions
 NB: WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. The ratings has a denominator of 10 with a numerator that has values greater than 10.
 The rating numerator is higher because it was disxcovered that the dogs are great dogs.
