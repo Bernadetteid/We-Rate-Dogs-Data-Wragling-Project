@@ -1,7 +1,9 @@
-Data Wrangling Poject Report,
-Presented By: Monica Iddah
-August 11th, 2022
-Introduction
+# Data Wrangling Poject Report
+
+## Presented By: Monica Iddah
+### August 11th, 2022
+#### Introduction
+
 The project is for Udacity Nano Degree Data Analysis Program, to test the students ability with data wrangling process.
 
 It's basically for learning purpose, to help better the student's approach and style towards data wrangling.
