@@ -15,8 +15,11 @@ Using Python and its libraries, we gather data from a variety of sources and in 
 We sampled the "We_Rate_Dog" twitter account, to produce insights in the following dimensions
 
 The dog types that got the highest and lowest rating
+
 The year with the most and least Dog review
+
 The devices that was mostly used for the rating
+
 For the analysis, the following files or dataset were provided:
 
 Twitter_Archive
