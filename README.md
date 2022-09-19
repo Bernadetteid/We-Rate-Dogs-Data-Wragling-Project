@@ -23,7 +23,4 @@ Twitter_Archive
 Twitter_Json
 Image_predictions
 NB: WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. The ratings has a denominator of 10 with a numerator that has values greater than 10.
-
 The rating numerator is higher because it was disxcovered that the dogs are great dogs.
-
-image.png
