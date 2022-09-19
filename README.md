@@ -10,7 +10,7 @@ It's basically for learning purpose, to help better the student's approach and s
 
 The step by step procedure has apparently provided the student with a more thorough approach to data wranglinga, which provides the viewer with a better understanding of the process as each step is well detailed and broken down.
 
-Using Python and its libraries, we gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it.
+Using Python and its libraries, we gathered data from a variety of sources and in a variety of formats, assess its quality and tidiness, then cleaned it.
 
 We sampled the "We_Rate_Dog" twitter account, to produce insights in the following dimensions:
 
